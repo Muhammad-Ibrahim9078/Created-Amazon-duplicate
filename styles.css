@@ -4,6 +4,10 @@
     border: border-box;
 }
 
+body{
+    background-color: #cccccc;
+}
+
 
 .navbar{
     height: 60px;
@@ -167,3 +171,39 @@ span{
 .click-here{
     color: #007185;
 }
+
+
+
+
+
+
+
+
+
+/* main Section */
+
+
+.difference-products div{
+    width: 350px;
+    height: 400px;
+    background-color: #fff;
+    text-align: center;
+}
+
+.difference-products{
+    display: flex;
+    justify-content: space-evenly;
+}
+/* 
+.furnitures-imgs{
+     display: flex;
+     justify-content: center;
+     flex-wrap: wrap;
+}
+
+
+
+.furnitures-imgs img{
+    width: 20px;
+    height: 20px;
+} */
